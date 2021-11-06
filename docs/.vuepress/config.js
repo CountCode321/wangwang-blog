@@ -4,6 +4,7 @@ module.exports = {
         ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
         ['link', { rel: 'icon', href: '/favicon.png' }]
     ],
+    base: '/wangwang-blog/',
     theme: 'reco',
     "search": true,  //是否开启搜索
     "searchMaxSuggestions": 5,  //最多的搜索建议条目
