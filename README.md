@@ -1,2 +1,0 @@
-## yarn add
-## yarn dev
