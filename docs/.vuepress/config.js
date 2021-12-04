@@ -1,5 +1,6 @@
 module.exports = {
     title: '汪汪的博客',
+    description: 'Just do it !',
     head: [
         ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
         ['link', { rel: 'icon', href: '/favicon.png' }]

@@ -1,2 +1,8 @@
-## yarn add
-## yarn dev
+## 安装
+```js
+yarn
+```
+## 运行
+```js
+yarn dev
+```
