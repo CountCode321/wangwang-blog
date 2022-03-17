@@ -6,3 +6,7 @@ yarn
 ```js
 yarn dev
 ```
+## 预览
+```aidl
+https://countcode321.github.io/wangwang-blog/
+```
